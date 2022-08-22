@@ -1,0 +1,8 @@
+#1|prabha|Male|2022-06-09|7471971984|2.50L|88/3-36, next to Calvary Chapel Church|Comedk
+#2|aman|Male|2022-07-30|9749849871|2.50L|88/3-36, next to Calvary Chapel Church|Comedk
+s3|teju|Male|2022-04-02|9988407407|2.50L|88/3-36, next to Calvary Chapel Church|Comedk
+#4|sahil|Male|2022-06-11|3346777565|3L|village post Gyodi, Mahoba|Comedk
+#1|Ayush|male|2022-07-20|1234567894|3L|bangalore|comedk
+s1|prabha|Male|2022-06-20|7471971984|2.50L|88/3-36, next to Calvary Chapel Church|comedk
+s4|Ad|Male|2022-07-25|1234567897|3L|bangalore|comedk
+s6|sankul|Male|2022-07-14|7259721133|2.50L|village post Gyodi, Mahoba|Comedk

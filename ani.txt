@@ -1,0 +1,6 @@
+#1|laxmi mam|6L|Professor
+f2|laxmi mam|6L|Professor
+f#|Srividhya mam|6L|Professor
+#|||
+3|Swathi|3L|assistant professor 
+s5|rc mukherjee|8L|Professor

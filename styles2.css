@@ -1,0 +1,152 @@
+body {
+        background-color:#7ad7fc;
+        margin: 0;
+        padding: 0;
+        font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: large;
+        text-decoration-color:black;
+}
+
+.mainline{font-size:81px;}
+
+
+.topnav {
+  background-color:#000000;
+  overflow: hidden;
+  font-size: inherit;
+  color: black;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-size: x-large;
+  text-decoration: none;
+  padding: 20px 20px;
+}
+
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  text-decoration: underline;
+  
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  color: rgb(59, 190, 255);
+}
+a#icon {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    height: fit-content;
+   background-color:#000000;
+   color: white;
+}
+
+a#tickets :hover{
+   width:220px;
+}
+label{
+  font-family: inherit;
+      width: 100%;
+      border: 0;
+      outline: 0;
+      font-size: 1.3rem;
+      color: rgb(0, 0, 0);
+      padding: 7px 0;
+      background: transparent;
+      transition: border-color 0.2s;
+}
+input{
+  font-family: inherit;
+      width: 100%;
+      border: 0;
+      border-bottom: 2px solid rgb(34, 0, 107);
+      outline: 0;
+      border-radius: 15px;
+      font-size: 1.3rem;
+      color: rgb(0, 0, 0);
+      padding: 7px 0;
+      background: rgb(255, 255, 255);
+      transition: border-color 0.2s;
+}
+
+.container3{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #141513;
+    border-top: 1px solid gray;
+    color: #696969;
+    font-size: small;
+    position:fixed;
+    height:15px;
+    bottom:0;
+  }
+
+button{
+  background:whitesmoke;
+  color:rgb(2, 0, 0);
+  border:1pxsolid#eee;
+  border-radius:5px;
+  box-shadow:3px3px3px#eee;
+  text-shadow:none;
+  padding: 10px 10px 10px 10px;
+  font-size:x-large;
+  width: 50%;
+}
+button:hover{
+  
+    background:black;
+    color:rgb(59, 190, 255);
+    border:1pxsolid#eee;
+    border-radius:5px;
+    box-shadow:3pxpx3px#000000;
+    text-shadow:none;
+    padding:  10px 10px 10px 10px;
+    font-size:x-large;
+ 
+}
+table {
+	width:100%;
+	border:1px solid color-form-highlight;
+}
+
+thead{
+	display:flex;
+	width:100%;
+	background:rgb(0, 7, 83);
+	padding:(half-spacing-unit * 1.5) 0;
+}
+
+tr {
+	display:flex;
+	width:100%;
+	padding:(half-spacing-unit * 1.5) 0;
+  padding-top: 2px;
+	
+	
+}
+
+td, th{
+	flex: 1 1 20%;
+	text-align:center;
+  
+}
+
+th{
+	text-transform:uppercase;
+  color: white;
+}
+td{
+  background: white;
+}
+list p {
+  font: arial;
+  font-size: 14px;
+  background-color: rgb(253, 253, 29) ;
+  color: #000;
+}
